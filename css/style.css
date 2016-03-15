@@ -74,7 +74,7 @@ h1 {
   font-weight: bolder;
   font-size: 75px;
   text-align: right;
-  margin-top: 220px;
+  margin-top: 235px;
   margin-right: 10px;
   color: white;
   float: right;
@@ -84,8 +84,9 @@ h2 {
 	font-size: 20px;
   	font-family: verdana;
     color: #D0112C;
+    max-width: 50%;
 	margin-bottom: 0;
-	margin-top: 0;
+	margin-top: 30px;
 	margin-left: 40px;
 	margin-right: 10px;
 	font-weight: bold;
